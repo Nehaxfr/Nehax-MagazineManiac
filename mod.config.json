@@ -1,0 +1,10 @@
+{
+	"name": "MagazineManiac",
+	"author": "Nehax",
+	"version": "1.0.0",
+	"license": "MIT",
+	"src": {
+		"src/tamperStuff.js": "TamperModLoad"
+	},
+	"required": []
+}

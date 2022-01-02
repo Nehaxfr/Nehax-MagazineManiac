@@ -1,0 +1,6 @@
+{
+    "fastloading":{
+        "enable": false,
+        "speed_multiplier": 3
+    }
+}
