@@ -1,6 +1,6 @@
 # Nehax-MagazineManiac-1.0.0
 
-A bunch of scripts to customize magazine related stuff for JET-12.12 - bad santa release
+A bunch of scripts to customize magazine related stuff for JET-12.12 - bad santa & Altered Escape 2.1.0
 
 ## Features 
 * FastLoading - Let you customize the magazine loading speed by applying a multiplier to the default value.
