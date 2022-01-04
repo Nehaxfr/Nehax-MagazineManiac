@@ -13,5 +13,5 @@ exports.mod = () => {
         db_globals.data.config.BaseLoadTime = 0.85;
     }
     logger.logSuccess("[MOD] Magazine Maniac loaded.");
-    fileIO.write(db.base.globals, db_globals);
+    _database.globals.config.BaseLoadTime = db_globals.data.config.BaseLoadTime;
 }
