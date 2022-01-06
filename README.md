@@ -1,4 +1,4 @@
-# Nehax-MagazineManiac-1.0.0
+# MagazineManiac
 
 A bunch of scripts to customize magazine related stuff for JET-12.12 - bad santa & Altered Escape 2.1.0
 
@@ -13,7 +13,7 @@ A bunch of scripts to customize magazine related stuff for JET-12.12 - bad santa
 * start server
 
 ## MagazineCapacity usage
-* find the id of the magazine you want to customize
+* find the id of the magazine you want to customize (https://eft.justemutarkov.eu/10988/items)
 * add it in config.json, type your new capacity (numeric value only) and enable it (true) (copy paste the template)
 * launch server and voilà 
 
