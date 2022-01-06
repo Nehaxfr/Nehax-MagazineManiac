@@ -4,7 +4,8 @@
 	"version": "1.0.0",
 	"license": "MIT",
 	"src": {
-		"src/MagazineManiac.js": "TamperModLoad"
+		"src/FastLoading.js": "TamperModLoad",
+		"src/MagazineCapacity.js": "CacheModLoad"
 	},
 	"required": []
 }

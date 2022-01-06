@@ -1,6 +1,18 @@
 {
-    "fastloading":{
+    "FastLoading":{
         "enable": false,
         "speed_multiplier": 1
-    }
+    },
+    "MagazineCapacity":[
+        {
+            "magazine_id": "559ba5b34bdc2d1f1a8b4582",
+            "new_capacity": 15,
+            "enable": true
+        },
+        {
+            "magazine_id": "template_2",
+            "new_capacity": "put_new_magazine_capacity_here (need a numeric value, remove thoose -> '')",
+            "enable": false
+        }
+    ]
 }
